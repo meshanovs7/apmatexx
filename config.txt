@@ -1,5 +1,5 @@
 token;6340771327:AAF6ASuof3HPHWe5lsZFzLOkS0m13Ti30xc
-image_tool;media\Tools.jpg
+image_tool;media/tool.jpg
 url_tool;https://armatech.group/product-category/niled/niled-instrument_dlya_montazha_sip/
 image_contacts;media\Logo1.jpg
 url_contacts;https://armatech.group/list/
@@ -22,3 +22,4 @@ image_vli;media\VLI.png
 url_vli;https://armatech.group/product-category/niled/niled-armatura_dlya_sip_0_4_kv/
 image_vlz;media\VLZ.png
 url_vlz;https://armatech.group/product-category/niled/armatura_dlya_sip_6_35_kv/
+url_https://www.mywishbook.ru/;https://www.mywishbook.ru/
