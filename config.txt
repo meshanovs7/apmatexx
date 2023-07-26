@@ -7,7 +7,7 @@ image_projects;media\Projects.jpg
 url_projects;https://armatech.group/tipovye-proekty/
 image_cable;media\Cable.jpg
 url_cable;https://armatech.group/product-category/sip-provod/
-ADMIN_ID;1664213532
+ADMIN_ID;136079998
 image_home_connection;media\home_connection.jpeg
 url_home_connection;https://armatech.group/sto-pao-rosseti/
 image_sip_cable;media\Cable.jpg

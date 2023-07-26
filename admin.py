@@ -47,7 +47,6 @@ def edit_code(update: Update, context: CallbackContext) -> None:
         query.edit_message_text(text="Выберите кнопку для редактирования:", reply_markup=reply_markup)
 
 
-
 def cancel(update: Update, context: CallbackContext) -> None:
     # query = update.callback_query
     # query.answer()
